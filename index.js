@@ -1,3 +1,4 @@
+//main js file 
 const inquirer = require('inquirer');
 const chalk = require('chalk');
 const NodeRSA = require('node-rsa');
